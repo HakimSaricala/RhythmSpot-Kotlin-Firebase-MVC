@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "269912259983",
+    "project_id": "rhythmspot-8d068",
+    "storage_bucket": "rhythmspot-8d068.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269912259983:android:e2504a8e7db2462fd81ffa",
+        "android_client_info": {
+          "package_name": "com.example.itwm_rhythmspot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEvafSwUFyTgHIj2SmG3WnQedENioRYBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269912259983:android:b13e41f16e2a944dd81ffa",
+        "android_client_info": {
+          "package_name": "com.example.rhythmspot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEvafSwUFyTgHIj2SmG3WnQedENioRYBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
